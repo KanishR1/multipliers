@@ -1,0 +1,7 @@
+Running: xsim.dir/toom_mul_generic_behav/xsimk -simmode gui -wdb toom_mul_generic_behav.wdb -simrunnum 0 -socket 39067
+Design successfully loaded
+Design Loading Memory Usage: 23788 KB (Peak: 24104 KB)
+Design Loading CPU Usage: 50 ms
+Simulation completed
+Simulation Memory Usage: 105524 KB (Peak: 163056 KB)
+Simulation CPU Usage: 50 ms

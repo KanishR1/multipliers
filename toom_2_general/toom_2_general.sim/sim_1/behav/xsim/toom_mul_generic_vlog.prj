@@ -2,7 +2,7 @@
 verilog xil_defaultlib  \
 "../../../../toom_2_general.srcs/sources_1/new/school_book.v" \
 "../../../../toom_2_general.srcs/sources_1/new/toom2.v" \
-"../../../../toom_2_general.srcs/sources_1/imports/new/toom2.v" \
+"../../../../toom_2_general.srcs/sources_1/imports/new/toom_mul_generic.v" \
 
 # compile glbl module
 verilog xil_defaultlib "glbl.v"

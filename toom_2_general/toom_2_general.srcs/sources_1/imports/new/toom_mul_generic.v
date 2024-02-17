@@ -1,8 +1,8 @@
 `timescale 1ns / 1ps
 
 
-(*USE_DSP="No"*)module toom2 #(
-    parameter DATA_WIDTH = 9
+(*USE_DSP="No"*)module toom_mul_generic #(
+    parameter DATA_WIDTH = 16
 )(
     input [DATA_WIDTH-1:0]a,
     input [DATA_WIDTH-1:0]b,
